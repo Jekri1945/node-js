@@ -1,22 +1,18 @@
 .navbar {
-    background-color: #99A799;
-    color: #001659;
-}
-
-.fa-envelope {
-    color:white
+    background-color: white;
+    color: white;
 }
 
 .white {
-    color:white
+    color:white;
 }
 
 .row {
-    background-color: #99A799;
+    background-color: white;
 }
 
 .nav-item {
-    color: black
+    color: white;
 }
 
 .center-block {
@@ -27,7 +23,7 @@ a {
     color: black;
 }
 .heading {
-    background-color: #ADC2A9;
+    background-color: lightgray;
     font-size:30px;
     color: black;
     text-align: center;
@@ -40,8 +36,12 @@ a {
     
 }
 
+.sub-heading {
+    font-size:15px
+}
+
 .about {
-    background-color: #D3E4CD;
+    background-color: lightgray;
     font-size: 20px;
     color: black;
     text-align: center;
@@ -54,7 +54,8 @@ a {
 }
 
 .contact {
-    background-color:#99A799;
+    background-color: white;
+    color:white;
     margin-left: 0px;
     padding-top: 40px;
     padding-bottom: 40px;
