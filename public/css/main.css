@@ -3,7 +3,7 @@ body {
   }
 
 .navbar {
-    background-color: white;
+    background-color: rgba(0, 0, 0, 0.9);
     color: white;
 }
 
@@ -12,9 +12,10 @@ body {
 }
 
 .row {
-    background-color: white;
-    height: 20px;
-    padding-top: 20px;
+    background-color: black;
+    color:white;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .nav-item {
@@ -26,7 +27,7 @@ body {
 }
 
 a {
-    color: black !important;
+    color: white !important;
 } 
 
 #home {
@@ -72,11 +73,5 @@ a {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.contact {
-    background-color: white;
-    color:white;
-    margin-left: 0px;
-    height: 10px;
-    text-align: center;
-}
+
 
