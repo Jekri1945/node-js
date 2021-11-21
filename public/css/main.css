@@ -31,10 +31,10 @@ a {
 } 
 
 #home {
-    background-color:rgba(0, 0, 0, 0.5);
+    background-color:rgba(0, 0, 0, 0.8);
 }
 
-#about {
+#content_about {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
@@ -72,6 +72,3 @@ a {
     background-size: 1400px 525px;
     background-color: rgba(0, 0, 0, 0.5);
 }
-
-
-
